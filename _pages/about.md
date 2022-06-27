@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About the Project
 permalink: /about/
 image: AGU-Stock-Nasa-Earth-Satellite.jpg
 ---
