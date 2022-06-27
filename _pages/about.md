@@ -2,25 +2,27 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: AGU-Stock-Nasa-Earth-Satellite.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+## Objective
 
-***
+The primary objective of this proposal is to engage a multi-disciple group of Artificial Intelligence (AI) and Machine Learning (ML) stakeholders and others to develop a set of principles and responsibilities for using artificial intelligence and machine learning in Earth and environmental science-focused research. The goal is for these principles to be endorsed and adopted by organizations and institutions within the Earth, space, and environmental science community, and used to update or inform general Scientific Code of Conduct policies. We feel this work will be relevant to related scientific disciplines as well.   
 
-#### Austin scenester...
-<small>2008 - 2018</small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+## Method 
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+AGU proposes to convene a series of three virtual workshops that includes broad stakeholders to gather inputs and to develop a set of community-based principles, practices, and responsibilities.  The final outcomes and recommendations will be included in the scientific Code of Conduct ([https://www.agu.org/Learn-About-AGU/About-AGU/Ethics](https://www.agu.org/Learn-About-AGU/About-AGU/Ethics)).  In the first workshop we will review existing material and identify gaps. By the end of the first workshop, we will establish working groups to develop recommendations around specific topics or needs that are identified (e.g., reporting uncertainties, ensuring replicability, identifying risks and unintended consequences). Working groups will present their progress and receive feedback during the second workshop.  Final material will be presented during the last working group with discussion moving toward adoption and implementation by participants and their organizations.  
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+In preparation for the first workshop, AGU will conduct a survey, with the support of Joel Cutcher-Gershenfeld, co-founder of WayMark Analytics, that will be used to gain momentum at the first workshop so that participants can have a reliable resource for alignment and gaps between the use of AI/ML by researchers and the perceived ethics behavior in order to build community around this effort.  AGU has worked with Joel during the Enabling FAIR Data project using a Stakeholder Alignment analysis to gain enough common understanding with participants from diverse disciplines and experience to invest then time in making data more FAIR.  
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+AGU commits to adding these new principles and responsibilities to their existing Scientific Code of Conduct and working to communicate these broadly.  It is hoped that the relevant stakeholders will also add to the communication and outreach.  They will be selected in part based on having influential roles in relevant organizations. 
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+
+## Significance to NASA 
+
+This work is fully consistent with AGU’s new strategic plan, adopted in 2020.  It states that: AGU is dedicated to supporting the Earth, space, and environmental science community by “produc[ing] knowledge and creat[ing] solutions in ways that are ethical, unbiased and respectful of communities and their values.”  One of the defined goals is to “[p]romote and exemplify an inclusive scientific culture” by “lead[ing] in defining and promoting the ethics, responsibility and associated competencies required of a scientist in the 21st century.”   
+
+NASA’s mission is squarely aligned with these challenges around AI and ML. NASA missions and scientists and generating many of the large datasets being investigated by ML and AI, and funding staff and grantee research on these. Many of the environmental challenges–from addressing space weather to managing water resources to carbon accounting are central to NASA’s mission and a focus of ML and AI research.  
+
+  
