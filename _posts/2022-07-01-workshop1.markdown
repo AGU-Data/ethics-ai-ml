@@ -1,0 +1,74 @@
+---
+layout: post
+title:  Workshops 1 - Current State Assessment and Working Group Formation
+date:   2018-07-01
+image:  02.jpeg
+tags:   Workshop
+---
+
+
+**AGU AI/ML Ethics Workshop Goals and Designs**
+
+Workshop 1:  
+- Current State Assessment and Working Group Formation
+- July 5-6, 2022
+
+**Workshop 1 Goals:**
+- Appreciate current AGU research ethics policy
+- Review the current state on AI/ML ethics in research
+- Review AI/ML ethics stakeholder “pulse” survey data
+- Review selected case examples of AI/ML research with ethical implications
+- Establish AI/ML ethics working groups 
+- Conduct a “pre-mortem” to anticipate what could possibly go wrong
+- Anticipate next steps for Workshop 2
+
+**Workshop 1, Day 1:**
+12:00	Welcome and Overview
+12:15	Overview of current AGU research ethics policy
+- Billy Williams, AGU
+12:30	Lighting talks on current state of AI/ML ethics in research
+- Abigail Azari, University of California, Berkeley
+- David Gagne, University Corporation for Atmospheric Research 
+- Thomas Donaldson, University of Pennsylvania
+1:15	Anticipating results from AI/ML ethics stakeholder “pulse” survey data
+1:30	Dialogue on gaps and issues
+1:45	Break
+2:00 	Brainstorming themes for working groups, potentially including:
+- Working Group 1:  Transparency/Reporting:  Transparency/reporting on uncertainties with AI/ML ethics in research
+- Working Group 2:  Replicability/Explainability:  Ensuring replicability/explainability with AI/ML ethics in research
+- Working Group 3:  Risk/Bias/Impacts:  Identifying risks, bias, and unintended consequences with AI/ML ethics in research
+- Working Group 4:  Outreach/Training/Leading Practices:  Collecting innovations in training, professional development, and outreach at all career stages
+- Working Group 5:  TBD  
+
+**2:30	Breakout groups by themes**
+- Introductions (30 seconds each) (7-10 min.)
+- What is “in” for this topic? What is “not in” for this topic? (15-20 min.)
+- Mission statement/vision for your working group (20-30 min.)
+3:30	Working Group reports
+4:00 	Adjourn  
+
+**Workshop 1, Day 2:**
+10:00	Welcome, Overview, and Check-in
+10:30	Case example 1:  Christine Kirkpatrick and Kevin Coakley, San Diego Supercomputing Center, with Discussion
+10:50	Case example 2:  Yuhan Douglas Rao, North Carolina Institute for Climate Studies, with Discussion 
+11:10	Case example 3:  Micaela Parker, Academic Data Science Alliance, with Discussion
+11:30	Ethical Language that is Interoperable and Extensible
+12:00	Lunch Break
+12:30 	Working groups
+•	Brainstorming on potential elements of recommended language (20-30 min.)
+•	“Testing” potential recommended language against case examples (10-15 min.)
+•	Organizing work between session I and session II (10-15 min.)
+1:30	Pre-mortem (what could possibly go wrong?)
+1:45	Next steps prep for Workshop 2 
+2:00 	Adjourn  
+
+**Selected Resources:**
+- AGU Scientific Ethics and Integrity Policy:  [https://www.agu.org/Learn-About-AGU/About-AGU/Ethics](https://www.agu.org/Learn-About-AGU/About-AGU/Ethics)
+- Boenig-Liptsin, Margarita, Anissa Tanweer & Ari Edmundson (2022) Data Science Ethos Lifecycle: Interplay of ethical thinking and data science practice, Journal of Statistics and Data Science Education, DOI: 10.1080/26939169.2022.2089411
+- Federal Data Strategy Data Ethics Framework: [https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf](https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf)
+- Front Matter | Fostering Responsible Computing Research: Foundations and Practices |The National Academies Press
+- Front Matter | Machine Learning and Artificial Intelligence to Advance Earth System Science: Opportunities and Challenges: Proceedings of a Workshop |The National Academies Press
+- McGovern, A., Ebert-Uphoff, I., Gagne, D., & Bostrom, A. (2022). Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science. Environmental Data Science, 1, E6. doi:10.1017/eds.2022.5 
+- NIST AI Risk Management Framework: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- UNESCO's global agreement on the ethics of AI: [https://en.unesco.org/news/unesco-member-states-adopt-first-ever-global-agreement-ethics-artificial-intelligence](https://en.unesco.org/news/unesco-member-states-adopt-first-ever-global-agreement-ethics-artificial-intelligence)
+
