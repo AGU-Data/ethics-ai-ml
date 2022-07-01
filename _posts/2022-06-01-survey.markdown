@@ -1,9 +1,19 @@
 ---
 layout: post
-title:  Survey 
+title:  AGU - NASA Ethics in AI/ML Survey
 date:   2022-06-01
-image:  AGU-Nevada-desert-rocks-sunshine.jpg
+image:  01.jpeg
 tags:   Survey
 ---
 
-Information about the survey...
+We need your input to help inform ethics guidance on the use of Artificial Intelligence (AI) and Machine Learning (ML) in research.  The link to the survey is here:
+ 
+[https://survey.alchemer.com/s3/6895652/AGU-AI-ML-Ethics-Consent](https://survey.alchemer.com/s3/6895652/AGU-AI-ML-Ethics-Consent)
+ 
+Across scientific domains, AI and ML are playing increasingly important roles, incorporating more data from more sources.  Existing standards for reproducibility and ethics in research can be challenged by AI and ML.  This survey is designed to assess your views around some of these challenges, as well as opportunities looking ahead with these technologies.  The results will inform the development of ethical standards for the use of AI and ML in research.
+ 
+Your participation in voluntary and individual responses will be kept confidential.  The survey is estimated to take 10-15 minutes.  Please respond by Friday, July 1st (though a sooner response is appreciated).
+ 
+Thank you in advance for sharing your views.
+ 
+The survey is funded by NASA and conducted by the American Geophysical Union with support from Waymark Analytics.
