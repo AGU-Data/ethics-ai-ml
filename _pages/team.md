@@ -5,7 +5,7 @@ permalink: /team/
 image: 03.jpeg
 ---
 
-# About the Team
+# Committee & Team
 
 ## Steering Committee
 
@@ -21,7 +21,7 @@ Academic Data Science Alliance
 Research Scientist  
 North Carolina Institute for Climate Studies  
 
-[Thomas Donaldson](https://lgst.wharton.upenn.edu/profile/donaldst/)	 
+[Thomas Donaldson](https://lgst.wharton.upenn.edu/profile/donaldst/)  
 Mark O. Winkelman Professor, Professor of Legal Studies & Business Ethics  
 The Wharton School, Legal Studies & Business Ethics Department  
 
@@ -29,7 +29,7 @@ The Wharton School, Legal Studies & Business Ethics Department
 Associate Director, Institute for Computational and Data Sciences, Professor of Geography, Meteorology and Atmospheric Sciences, Director of the GEOvista Center, President-Elect AGU Natural Hazards Section  
 Penn State, College of Earth and Mineral Sciences, Department of Geography  
 
-[Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345)
+[Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345)  
 Professor in the Department of Biostatistics and Bioinformatics, Jointly Appointed, Environmental Health
 Rollins School of Public Health, Emory University
 
