@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Workshops 1 - Current State Assessment and Working Group Formation
-date:   2018-07-01
+title:  Workshop 1 - Current State Assessment and Working Group Formation
+date:   2022-07-01
 image:  02.jpeg
 tags:   Workshop
 ---
@@ -64,11 +64,11 @@ Workshop 1:
 
 **Selected Resources:**
 - AGU Scientific Ethics and Integrity Policy:  [https://www.agu.org/Learn-About-AGU/About-AGU/Ethics](https://www.agu.org/Learn-About-AGU/About-AGU/Ethics)
-- Boenig-Liptsin, Margarita, Anissa Tanweer & Ari Edmundson (2022) Data Science Ethos Lifecycle: Interplay of ethical thinking and data science practice, Journal of Statistics and Data Science Education, DOI: 10.1080/26939169.2022.2089411
+- Boenig-Liptsin, Margarita, Anissa Tanweer & Ari Edmundson (2022) Data Science Ethos Lifecycle: Interplay of ethical thinking and data science practice, Journal of Statistics and Data Science Education, [http://doi.org/10.1080/26939169.2022.2089411](http://doi.org/10.1080/26939169.2022.2089411)
 - Federal Data Strategy Data Ethics Framework: [https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf](https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf)
-- Front Matter | Fostering Responsible Computing Research: Foundations and Practices |The National Academies Press
-- Front Matter | Machine Learning and Artificial Intelligence to Advance Earth System Science: Opportunities and Challenges: Proceedings of a Workshop |The National Academies Press
-- McGovern, A., Ebert-Uphoff, I., Gagne, D., & Bostrom, A. (2022). Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science. Environmental Data Science, 1, E6. doi:10.1017/eds.2022.5 
+- (Front Matter) National Academies of Sciences, Engineering, and Medicine. 2022. Fostering Responsible Computing Research: Foundations and Practices. Washington, DC: The National Academies Press. [https://doi.org/10.17226/26507](https://doi.org/10.17226/26507)
+- (Front Matter) Machine Learning and Artificial Intelligence to Advance Earth System Science: Opportunities and Challenges: Proceedings of a Workshop |The National Academies Press [https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop](https://www.nationalacademies.org/our-work/machine-learning-and-artificial-intelligence-to-advance-earth-system-science-opportunities-and-challenges---a-workshop)
+- McGovern, A., Ebert-Uphoff, I., Gagne, D., & Bostrom, A. (2022). Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science. Environmental Data Science, 1, E6. [http://doi.org/10.1017/eds.2022.5](http://doi.org/10.1017/eds.2022.5)
 - NIST AI Risk Management Framework: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - UNESCO's global agreement on the ethics of AI: [https://en.unesco.org/news/unesco-member-states-adopt-first-ever-global-agreement-ethics-artificial-intelligence](https://en.unesco.org/news/unesco-member-states-adopt-first-ever-global-agreement-ethics-artificial-intelligence)
 
