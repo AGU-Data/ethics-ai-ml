@@ -25,24 +25,24 @@ Workshop 1:
 **Workshop 1, Day 1:**
 12:00	Welcome and Overview  
 12:15	Overview of current AGU research ethics policy  
-- Billy Williams, AGU
+- Billy Williams, AGU  
 12:30	Lighting talks on current state of AI/ML ethics in research  
 - Abigail Azari, University of California, Berkeley
 - David Gagne, University Corporation for Atmospheric Research 
-- Thomas Donaldson, University of Pennsylvania
-1:15	Anticipating results from AI/ML ethics stakeholder “pulse” survey data  
-1:30	Dialogue on gaps and issues  
-1:45	Break  
-2:00 	Brainstorming themes for working groups, potentially including:  
-- Working Group 1:  Transparency/Reporting:  Transparency/reporting on uncertainties with AI/ML ethics in research
-- Working Group 2:  Replicability/Explainability:  Ensuring replicability/explainability with AI/ML ethics in research
-- Working Group 3:  Risk/Bias/Impacts:  Identifying risks, bias, and unintended consequences with AI/ML ethics in research
-- Working Group 4:  Outreach/Training/Leading Practices:  Collecting innovations in training, professional development, and outreach at all career stages
-- Working Group 5:  TBD  
+- Thomas Donaldson, University of Pennsylvania  
+1:15 Anticipating results from AI/ML ethics stakeholder “pulse” survey data  
+1:30 Dialogue on gaps and issues  
+1:45 Break  
+2:00 Brainstorming themes for working groups, potentially including:    
+- Working Group 1: Transparency/Reporting:  Transparency/reporting on uncertainties with AI/ML ethics in research
+- Working Group 2: Replicability/Explainability:  Ensuring replicability/explainability with AI/ML ethics in research
+- Working Group 3: Risk/Bias/Impacts:  Identifying risks, bias, and unintended consequences with AI/ML ethics in research
+- Working Group 4: Outreach/Training/Leading Practices:  Collecting innovations in training, professional development, and outreach at all career stages
+- Working Group 5: TBD  
 2:30	Breakout groups by themes  
 - Introductions (30 seconds each) (7-10 min.)
 - What is “in” for this topic? What is “not in” for this topic? (15-20 min.)
-- Mission statement/vision for your working group (20-30 min.)
+- Mission statement/vision for your working group (20-30 min.)  
 3:30	Working Group reports  
 4:00 	Adjourn   
 
@@ -53,13 +53,13 @@ Workshop 1:
 11:10	Case example 3:  Micaela Parker, Academic Data Science Alliance, with Discussion  
 11:30	Ethical Language that is Interoperable and Extensible  
 12:00	Lunch Break  
-12:30 	Working groups  
+12:30 Working groups  
 -	Brainstorming on potential elements of recommended language (20-30 min.)
 -	“Testing” potential recommended language against case examples (10-15 min.)
--	Organizing work between session I and session II (10-15 min.)
-1:30	Pre-mortem (what could possibly go wrong?)  
-1:45	Next steps prep for Workshop 2  
-2:00 	Adjourn  
+-	Organizing work between session I and session II (10-15 min.)  
+1:30 Pre-mortem (what could possibly go wrong?)  
+1:45 Next steps prep for Workshop 2  
+2:00 Adjourn  
 
 **Selected Resources:**
 - AGU Scientific Ethics and Integrity Policy:  [https://www.agu.org/Learn-About-AGU/About-AGU/Ethics](https://www.agu.org/Learn-About-AGU/About-AGU/Ethics)
