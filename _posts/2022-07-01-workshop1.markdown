@@ -22,7 +22,7 @@ Workshop 1:
 - Conduct a “pre-mortem” to anticipate what could possibly go wrong
 - Anticipate next steps for Workshop 2
 
-**Workshop 1, Day 1:**
+**Workshop 1, Day 1:**  
 12:00	Welcome and Overview  
 12:15	Overview of current AGU research ethics policy  
 - Billy Williams, AGU
