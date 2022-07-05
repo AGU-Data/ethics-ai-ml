@@ -12,7 +12,7 @@ We need your input to help inform ethics guidance on the use of Artificial Intel
  
 Across scientific domains, AI and ML are playing increasingly important roles, incorporating more data from more sources.  Existing standards for reproducibility and ethics in research can be challenged by AI and ML.  This survey is designed to assess your views around some of these challenges, as well as opportunities looking ahead with these technologies.  The results will inform the development of ethical standards for the use of AI and ML in research.
  
-Your participation in voluntary and individual responses will be kept confidential.  The survey is estimated to take 10-15 minutes.  Please respond by Friday, July 1st (though a sooner response is appreciated).
+Your participation in voluntary and individual responses will be kept confidential.  The survey is estimated to take 10-15 minutes.  Please respond by Monday, August 15th (though a sooner response is appreciated).
  
 Thank you in advance for sharing your views.
  
