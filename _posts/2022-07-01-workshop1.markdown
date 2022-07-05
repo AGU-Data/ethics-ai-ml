@@ -12,11 +12,12 @@ tags:   Workshop
 Workshop 1:  
 - Current State Assessment and Working Group Formation
 - July 5-6, 2022
+- Times in Eastern Time Zone
 
 **Workshop 1 Goals:**
 - Appreciate current AGU research ethics policy
 - Review the current state on AI/ML ethics in research
-- Review AI/ML ethics stakeholder “pulse” survey data
+- Anticipate AI/ML ethics stakeholder “pulse” survey data
 - Review selected case examples of AI/ML research with ethical implications
 - Establish AI/ML ethics working groups 
 - Conduct a “pre-mortem” to anticipate what could possibly go wrong
@@ -25,21 +26,21 @@ Workshop 1:
 **Workshop 1, Day 1:**  
 12:00	Welcome and Overview  
 12:15	Overview of current AGU research ethics policy  
-- Billy Williams, AGU
+- Billy Williams, Executive Vice President for DEI, AGU
 
 12:30	Lighting talks on current state of AI/ML ethics in research  
 - Abigail Azari, University of California, Berkeley
-- David Gagne, University Corporation for Atmospheric Research 
+- David Gagne, University Corporation for Atmospheric Research
 - Thomas Donaldson, University of Pennsylvania
 
 1:15 Anticipating results from AI/ML ethics stakeholder “pulse” survey data  
 1:30 Dialogue on gaps and issues  
 1:45 Break  
 2:00 Brainstorming themes for working groups, potentially including:    
-- Working Group 1: Transparency/Reporting:  Transparency/reporting on uncertainties with AI/ML ethics in research
-- Working Group 2: Replicability/Explainability:  Ensuring replicability/explainability with AI/ML ethics in research
-- Working Group 3: Risk/Bias/Impacts:  Identifying risks, bias, and unintended consequences with AI/ML ethics in research
-- Working Group 4: Outreach/Training/Leading Practices:  Collecting innovations in training, professional development, and outreach at all career stages
+- Working Group 1: Transparency/Reporting: Transparency/reporting on uncertainties with AI/ML ethics in research
+- Working Group 2: Replicability/Explainability: Ensuring replicability/explainability with AI/ML ethics in research
+- Working Group 3: Risk/Bias/Impacts: Identifying risks, bias, and unintended consequences with AI/ML ethics in research
+- Working Group 4: Outreach/Training/Leading Practices: Collecting innovations in training, professional development, and outreach at all career stages
 - Working Group 5: TBD
 
 2:30	Breakout groups by themes  
