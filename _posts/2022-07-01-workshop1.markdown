@@ -53,7 +53,7 @@ Workshop 1:
 
 **Workshop 1, Day 2:**  
 10:00	Welcome, Overview, and Check-in  
-10:30	Case example 1: Christine Kirkpatrick and Kevin Coakley, San Diego Supercomputing Center, with Discussion  
+10:30	Case example 1: Christine Kirkpatrick and Kevin Coakley, San Diego Supercomputing Center, with Discussion ([Slides](https://docs.google.com/presentation/d/14WVtT5u2kx1VPFkby1IzU3Njkg4N6ypH7rCo85MZdcw/edit#slide=id.p))  
 10:50	Case example 2: Yuhan Douglas Rao, North Carolina Institute for Climate Studies, with Discussion  
 11:10	Case example 3: Micaela Parker, Academic Data Science Alliance, with Discussion  
 11:30	Ethical Language that is Interoperable and Extensible  
