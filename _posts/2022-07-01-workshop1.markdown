@@ -26,7 +26,7 @@ Workshop 1:
 **Workshop 1, Day 1:**  
 12:00	Welcome and Overview  
 12:15	Overview of current AGU research ethics policy  
-- Billy Williams, Executive Vice President for DEI, AGU
+- Billy Williams, Executive Vice President for DEI, AGU ([Slides](https://github.com/AGU-Data/ethics-ai-ml/blob/master/files/BWilliams_AGU%20Ethics%20Overview_5Julyl2022.pdf))
 
 12:30	Lighting talks on current state of AI/ML ethics in research  
 - Abigail Azari, University of California, Berkeley
