@@ -24,7 +24,7 @@ Workshop 1:
 - Anticipate next steps for Workshop 2
 
 **Workshop 1, Day 1:**  
-12:00	Welcome and Overview  
+12:00	Welcome and Overview ([Cutcher-Gershenfeld Slides](https://github.com/AGU-Data/ethics-ai-ml/blob/master/files/2022-July-AI-ML-Ethics-Workshop-Session-1-v2.0.pdf))  
 12:15	Overview of current AGU research ethics policy  
 - Billy Williams, Executive Vice President for DEI, AGU ([Slides](https://github.com/AGU-Data/ethics-ai-ml/blob/master/files/BWilliams_AGU%20Ethics%20Overview_5Julyl2022.pdf))
 
