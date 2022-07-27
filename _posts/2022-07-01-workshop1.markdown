@@ -14,6 +14,9 @@ Workshop 1:
 - July 5-6, 2022
 - Times in Eastern Time Zone
 
+- [AGU AI/ML Ethics Workshop Day 1 - July 5, 2022](https://youtu.be/OU7pcOVsH6Q)
+- [AGU AI/ML Ethics Workshop Day 2 - July 6, 2022](https://youtu.be/kU2zPVqYPTI)
+
 **Workshop 1 Goals:**
 - Appreciate current AGU research ethics policy
 - Review the current state on AI/ML ethics in research
