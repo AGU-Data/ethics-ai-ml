@@ -2,7 +2,7 @@
 layout: post
 title:  Workshop 2 - Working Group Recommendations and Implementation
 date:   2022-08-18
-image:  02.jpeg
+image:  04.jpg
 tags:   Workshop
 ---
 
