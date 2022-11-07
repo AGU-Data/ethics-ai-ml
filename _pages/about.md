@@ -7,7 +7,7 @@ image: AGU-Stock-Nasa-Earth-Satellite.jpg
 
 ## Objective
 
-The primary objective of this proposal is to engage a multi-disciple group of Artificial Intelligence (AI) and Machine Learning (ML) stakeholders and others to develop a set of principles and responsibilities for using artificial intelligence and machine learning in Earth and environmental science-focused research. The goal is for these principles to be endorsed and adopted by organizations and institutions within the Earth, space, and environmental science community, and used to update or inform general Scientific Code of Conduct policies. We feel this work will be relevant to related scientific disciplines as well.   
+The primary objective of this proposal is to engage a multi-disciplines group of Artificial Intelligence (AI) and Machine Learning (ML) stakeholders and others to develop a set of principles and responsibilities for using artificial intelligence and machine learning in Earth and environmental science-focused research. The goal is for these principles to be endorsed and adopted by organizations and institutions within the Earth, space, and environmental science community, and used to update or inform general Scientific Code of Conduct policies. We feel this work will be relevant to related scientific disciplines as well.   
 
 
 ## Method 
