@@ -6,7 +6,7 @@ image:  01.jpg
 tags:   Town Hall
 ---
 # Artificial Intelligence and Machine Learning Ethical Research Principles and Responsibilities
-## Development
+## Development of Principles and Responsibilities
 After hosting [Workshop 1](https://data.agu.org/ethics-ai-ml/2022/07/01/workshop1/) and [Workshop 2](https://data.agu.org/ethics-ai-ml/2022/08/18/workshop2/), our [Editorial Team](https://data.agu.org/ethics-ai-ml/team/) and contributors have spent the last few months intensively reviewing the Working Group recommendations and **developing a draft set of principles and responsibilities** for using artificial intelligence and machine learning (AI/ML) in Earth and environmental science-focused research. 
 
 The team has developed a set of modules alongside the principles and responsibilities to better encapsulate the range of considerations and stakeholders. These modules cover topics ranging from the importance of transparency, risk and bias in applications of AI/ML, leading practices, and institutional guidance. Our overarching goal is to facilitate the development of equitable and just AI/ML that maximizes potential benefits while minimizing potential risks. We hope these principles can be used to update or inform general Scientific Code of Conduct policies through endorsement and adoption by organizations and institutions within the Earth, space, and environmental science community.
