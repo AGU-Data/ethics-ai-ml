@@ -2,7 +2,7 @@
 layout: post
 title:  Editorial Team Updates and Town Hall
 date:   2022-12-09
-image:  01.jpg
+image:  /images/01.jpg
 tags:   Town Hall
 ---
 # Artificial Intelligence and Machine Learning Ethical Research Principles and Responsibilities
