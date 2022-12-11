@@ -2,7 +2,7 @@
 layout: post
 title:  Our AI/ML Ethics Principles and Responsibilites are Open for Feedback!
 date:   2022-12-10
-image:  02.jpg
+image:  02.jpeg
 tags:   Survey
 ---
 # Development of Principles and Responsibilities
