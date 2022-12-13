@@ -11,7 +11,7 @@ As the culmination of our editorial team's work – and following the input and 
 
 ## Comment on the Draft Principles and Responsibilities Document:
 
-We're excited to open up the document for feedback and comments. Please [read the document here](https://doi.org/10.22541/essoar.167080673.37483484/v1) and give feedback through [the form linked here](https://docs.google.com/forms/d/e/1FAIpQLSeqG983O-VXovW2033O31neDCmbVQl8NesvcLQqvMCu-mETpw/viewform). 
+We're excited to open up the document for feedback and comments. Please [read the document here](https://doi.org/10.22541/essoar.167080673.37483484/v1) and give feedback through [the form linked here](https://docs.google.com/forms/d/e/1FAIpQLSeqG983O-VXovW2033O31neDCmbVQl8NesvcLQqvMCu-mETpw/viewform). Please complete your feedback by the end of January 2023.
 
 We look forward to hearing from you!
 
