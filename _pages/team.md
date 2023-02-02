@@ -85,7 +85,7 @@ UCAR
 [Shelley Stall](https://twitter.com/ShelleyStall)  
 *VP, Data Leadership*
 
-[Kristina Vrouwenvelder](https://twitter.com/kvrouwen)
+[Kristina Vrouwenvelder](https://twitter.com/kvrouwen)   
 *Program Manager, Open Science*
 
 [Laura Lyon](https://twitter.com/lyonlaur)  
