@@ -22,6 +22,11 @@ ESS Open Archive. April 12, 2023.
 **[AGU PUBLISHES GUIDELINES FOR THE ETHICAL USE OF AI IN THE EARTH AND SPACE SCIENCES](https://news.agu.org/press-release/agu-publishes-guidelines-for-the-ethical-use-of-ai-in-the-earth-and-space-sciences/)**
 
 ## Presentations:
-**[AGU 2022 Town Hall]()**
+**[AGU 2022 Town Hall](https://doi.org/10.5281/zenodo.7994881)**  
+Presentation given at AGU 2022 Fall Meeting in Chicago, IL, USA.
 
-**[Keynote on Responsible AI/ML]()** 
+Principles and Responsibilities for Using Artificial Intelligence and Machine Learning in Earth, Space, and Environmental Science-Focused Research (TH13G)
+12 December, 12:45 CT (18:45 UTC), S105bc McCormick Place (South, Level 1)
+
+**[Keynote on Responsible AI/ML](https://doi.org/10.5281/zenodo.7994809)**  
+Stall, Shelley. (2023, March 22). Responsible Application of AI. Zenodo.
